@@ -55,7 +55,7 @@ Lalu buka file README dengan VScode dan tampilan nya akan seperti ini:
 
 Setelah itu buat file baru
 
-![newfile](https://github.com/user-attachments/assets/ac1be4a8-3cce-44f6-ba2d-4d9a170c34d0)yu
+![newfile](https://github.com/user-attachments/assets/ac1be4a8-3cce-44f6-ba2d-4d9a170c34d0)
 
 Ganti menjadi file python :
 
@@ -65,7 +65,7 @@ Dan save pada file web1lab1, ganti nama sesuai apa yang di inginkan :
 
 ![Cuplikan layar 2024-10-21 195938](https://github.com/user-attachments/assets/60d9081c-5ad1-403c-9a4a-0ed2b1f91627)
 
-Kembali ke Git Tools, ketik 'git add web1/' untuk menambahkan, lalu commit dengan mengetik 'git commit -m (komentar bebas)', jika sudah ketik lagi 'git push -u origin main' maka konten yang kita tambahkan pada file web1 sudah terupdate digithub
+Kembali ke Git Tools, ketik 'git add web1lab1/' untuk menambahkan, lalu commit dengan mengetik 'git commit -m (komentar bebas)', jika sudah ketik lagi 'git push -u origin main' maka konten yang kita tambahkan pada file web1 sudah terupdate digithub
 
 # MEMBUAT CODE PROGRAM FLOWCHART DENGAN PYTHON
 
@@ -97,7 +97,7 @@ Setelah code proses sudah selesai maka masukan output untuk di tampilkan, printa
 
 Selanjutnya kita run code program dan inputkan bilangan : Bilangan1 = 15 Bilangan2 = 3 Bilangan3 = 11 maka akan ditampilan output terbesar dari 3 bilangan yang sudah di input : Bilangan1 = 15
 
-![Cuplikan layar 2024-10-21 201946](https://github.com/user-attachments/assets/08119457-e9ea-4183-b48d-81c88b0b64c0
+![Cuplikan layar 2024-10-21 201946](https://github.com/user-attachments/assets/9a1e3a17-1de9-4daa-acc0-185a590cd944)
 
 # MEMBUAT FLOWCHART MENENTUKAN TERBESAR DARI 3 BILANGAN
 
@@ -123,7 +123,7 @@ Buat lah decision untuk keputusan, jika Bilangan1 >= Bilangan2 YA/TIDAK? :
 
 Jika YA maka akan lanjut, jika Bilangan1 >= Bilangan3 YA/TIDAK?. Jika TIDAK maka akan lanjut, jika Bilangan2 >= Bilangan3 YA/TIDAK? :
 
-![Cuplikan layar 2024-10-21 203529](https://github.com/user-attachments/assets/ae17ead8-9475-45f3-be13-d711b09b371d)
+![Cuplikan layar 2024-10-21 203529](https://github.com/user-attachments/assets/9e7502e2-122b-4efb-958d-d21c0d3488d7)
 
 ## Step 5
 
